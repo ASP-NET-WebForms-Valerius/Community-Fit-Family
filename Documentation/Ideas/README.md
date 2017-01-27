@@ -1,6 +1,6 @@
 #<a href="../README.md">Community-Fit-Family</a>
 
-![Cover photo](../Images/ProjectIdeas.jpg) 
+![Cover photo](../Images/ProjectIdeas.jpg =300x) 
 
 ##Project Ideas
 
