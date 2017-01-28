@@ -7,7 +7,7 @@
 
 ###Download latest database.bak file
 
-###Seed data with the *.sql files
+###Seed data with the *.sql files or use the sql source code peaces.
 
 SQL code peaces:
 
